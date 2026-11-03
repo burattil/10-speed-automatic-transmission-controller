@@ -30,7 +30,7 @@ Systems requirements were developed and documented using MATLAB Requirements Too
 
 Controller functionality was evaluated using MATLAB Simulink Test with many different simulated inputs, with test cases covering operating-state transitions, gear selection, and safety constraints.
 
-The challenge also included a vehicle acceleration target of 0–60 mph in under 12 seconds. In this model, 60 mph mark was hit at 11.8 seconds.
+The challenge also included a vehicle acceleration target of 0–60 mph in under 12 seconds. In this model, the 60 mph mark was hit at 11.8 seconds.
 
 ## Technologies Used
 - MATLAB
@@ -38,7 +38,7 @@ The challenge also included a vehicle acceleration target of 0–60 mph in under
 - Stateflow
 - Simulink Test
 - MATLAB Requirements Toolbox
-- Git / GitHub
+- Git/GitHub
 
 ## Acknowledgements
 This project was completed using the development challenge framework and vehicle simulation model provided by the EcoCAR Propulsion Controls & Modelling sub-team. 
