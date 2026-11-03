@@ -47,5 +47,5 @@ The original repository can be found here:
 
 [EcoCAR PCM Dev-Challenge Repository](https://github.com/sticklat/PCM-Dev-Challenge_EIC-Y1)
 
-## Author
-Luca Burattini
+## Authors
+Luca Burattini & Iliya Ghamoushi
